@@ -1,0 +1,68 @@
+body{
+	display: grid;
+	grid-template-areas: 
+		"fejelc"
+		"kontent"
+		
+		;
+		grid-template-rows: max-content 1fr max-content;
+		min-height: 100vh;
+	background-color: rgb(210,210,210);
+	margin: 20px;
+	padding: 2px;
+
+	
+}
+
+header{
+	text-align: center;
+	grid-area: fejlec;
+	border: solid black;
+
+}
+main{
+	grid-area: kontent;
+
+}
+
+.header{
+	text-align: left;
+
+
+}
+.header_menu{
+	background-color: rgba(150,150,150,1);
+	border: 3px solid black;
+	border-radius: 10px;
+	font-size: 30px;
+
+}
+.fejlec{
+	background-color: grey;
+
+}
+
+
+main{
+	border: solid black;
+	margin: 60px;
+	padding: 20px;
+	background-color: rgb(175,175,175);
+	
+}
+
+p{
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+
+	color: black;
+}
+span{
+	font-size: 25px;
+}
+
+img{
+	margin: 40px;
+}
