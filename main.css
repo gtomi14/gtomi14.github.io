@@ -46,7 +46,7 @@ main{
 main{
 	border: solid black;
 	
-	padding: 20px;
+	padding: 50px;
 	background-color: rgb(175,175,175);
 	
 }
@@ -64,5 +64,8 @@ span{
 }
 
 img{
-	margin: 40px;
+	margin: 45px;
+}
+h1{
+	font-size: 30px;
 }
