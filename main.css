@@ -31,21 +31,21 @@ main{
 
 }
 .header_menu{
-	background-color: rgba(175,175,175,1);
+	background-color: rgba(150,150,150,1);
 	border: 3px solid black;
 	border-radius: 10px;
 	font-size: 30px;
 
 }
 .fejlec{
-	background-color: grey;
+	background-color: rgb(175,175,175);
 
 }
 
 
 main{
 	border: solid black;
-	margin: 60px;
+	
 	padding: 20px;
 	background-color: rgb(175,175,175);
 	
