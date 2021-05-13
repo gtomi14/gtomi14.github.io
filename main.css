@@ -22,11 +22,16 @@ header{
 }
 main{
 	grid-area: kontent;
+	border: solid black;
+	
+	padding: 50px;
+	background-color: rgb(175,175,175);
 
 }
 
 .header{
 	text-align: left;
+
 
 
 }
@@ -43,16 +48,10 @@ main{
 }
 
 
-main{
-	border: solid black;
-	
-	padding: 50px;
-	background-color: rgb(175,175,175);
-	
-}
+
 
 p{
-	font-size: 30px;
+	font-size: 25px;
 }
 a{
 	text-decoration: none;
